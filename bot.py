@@ -13,14 +13,14 @@ import discord
 
 # The Guild ID refers to the server the bot will operate in.
 # Obtain guild ID by right-clicking the server and clicking "Copy ID"
-GUILD_ID = ID_HERE # Guild ID MUST be an int, not a string!
+GUILD_ID = 663107907436544033 # Guild ID MUST be an int, not a string!
 
 # The Channel ID refers to the specific channel the bot will be able to interact with.
 # Obtain channel ID by right-clicking the channel and clicking "Copy ID"
 # Channel ID MUST be an int, not a string!
 
 # Examples of possible channels have been listed
-CONFESSIONS_ID = ID_HERE # confessions, !conf 
+CONFESSIONS_ID = 1455335956709376112 # confessions, !conf 
 VENT_ID = ID_HERE # vent, !vent
 VC_CHAT_ID = ID_HERE # vc-chat, !vc
 LGBTQ_ID = ID_HERE # lgbtq, !lgbt
@@ -30,7 +30,7 @@ RECOMMENDATIONS_ID = ID_HERE # recommendations, !rec
 
 # The Bot Token is necessary for the program to interact with the Discord API.
 # Obtain bot token from Discord Developer Site
-BOT_TOKEN = "ID_HERE" # Token ID MUST be a string (in quotes)!
+BOT_TOKEN = "OTcyMzkzNzE0OTUxNTI4NTY5.GPOrbQ.cDReJJv7NHYQxJ3yVBCqMVPqNQ4FQ-w7ZE8eOw" # Token ID MUST be a string (in quotes)!
 
 ####################
 
